@@ -103,6 +103,7 @@ public class MainActivity extends Activity implements OnItemClickListener{
 
 	//Initializing variables
 	private void init(){
+        //teste
         button_Disconnect = (Button)findViewById(R.id.button_Disconnect);
 		textView_Name = (TextView)findViewById(R.id.textView_Name);
 		
