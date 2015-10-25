@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="D:\Android\Projetos\Acquire\libs\poi-3.12-20150511.jar"
+        jar="C:\Users\Gabriel\Documents\Android\Acquire\libs\poi-3.12-20150511.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="8be19a6a1fa08e934a497929f360111a4d2e5115">
-        <dex dex="D:\Android\Projetos\Acquire\build\intermediates\pre-dexed\debug\poi-3.12-20150511-3715358b25103ce4cfdcd47c3a29c7dc3d01b1be.jar" />
+        <dex dex="C:\Users\Gabriel\Documents\Android\Acquire\build\intermediates\pre-dexed\debug\poi-3.12-20150511-9714564f9a5420c885bcf788a373c81955a1b354.jar" />
     </item>
     <item
-        jar="D:\Android\Projetos\Acquire\libs\GraphView-4.0.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8bd182a66f13dedad362bfbf992be96de2be5969">
-        <dex dex="D:\Android\Projetos\Acquire\build\intermediates\pre-dexed\debug\GraphView-4.0.1-0415fedbb6e9f8e50deda191d57e37465db9ba49.jar" />
-    </item>
-    <item
-        jar="D:\Android\Projetos\Acquire\libs\android-support-v13.jar"
+        jar="C:\Users\Gabriel\Documents\Android\Acquire\libs\android-support-v13.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="6623c91d454d2939626814676781c0e694717eda">
-        <dex dex="D:\Android\Projetos\Acquire\build\intermediates\pre-dexed\debug\android-support-v13-fe592640e8596559c803498496cf6355e551ea98.jar" />
+        <dex dex="C:\Users\Gabriel\Documents\Android\Acquire\build\intermediates\pre-dexed\debug\android-support-v13-807400347654e3205e599d6baf9b368687888ba3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabriel\Documents\Android\Acquire\libs\GraphView-4.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd182a66f13dedad362bfbf992be96de2be5969">
+        <dex dex="C:\Users\Gabriel\Documents\Android\Acquire\build\intermediates\pre-dexed\debug\GraphView-4.0.1-f8eab81d07c4fa8b4aa1cdad37a7d7340155a232.jar" />
     </item>
 
 </items>
