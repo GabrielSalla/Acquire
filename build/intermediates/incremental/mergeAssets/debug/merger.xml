@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Android\Projetos\Acquire\assets"/></dataSet><dataSet config="debug"><source path="D:\Android\Projetos\Acquire\build-types\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Gabriel\Documents\Android\Acquire\assets"/></dataSet><dataSet config="debug"><source path="C:\Users\Gabriel\Documents\Android\Acquire\build-types\debug\assets"/></dataSet></merger>
